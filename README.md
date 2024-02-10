@@ -8,9 +8,11 @@ I'm Divyam Raj Singh, a passionate software developer with a love for coding and
 
 - **Languages**: Java, HTML, CSS and Javascript 
 
-- **Framework and Libraries**: TailwindCSS and ReactJs
+- **Framework and Libraries**: TailwindCSS, Bootstrap, ReactJs, Axios, SCSS, ReduxToolkit
 
 - **Learning**: ThreeJS, Typescript and NEXTJs
+  
+- **Developer Tools**:  Git, Github, Visual Studio, Figma, Canva
 
 ### 🗣️ Hobbies
 
